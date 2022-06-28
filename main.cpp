@@ -1,16 +1,17 @@
 #include <iostream>
 
 
-namespace 
+namespace //Name here
 {
-  void 
+  void //Name here
   {
-  
+  //What will namespace::void do
   }
 }
 
-int 
+int //Name here 
 {
+//What will this function do
 }
 
 int main() //This is what executes on startup
